@@ -9,7 +9,7 @@ Name:       kf5-kglobalaccel
 # << macros
 
 Summary:    KDE Frameworks 5 Tier 1 integration module for global shortcuts
-Version:    4.99.0
+Version:    4.100.0
 Release:    1
 Group:      System/Base
 License:    GPLv2+
