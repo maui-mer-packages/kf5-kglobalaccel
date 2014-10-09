@@ -33,6 +33,7 @@ BuildRequires:  pkgconfig(x11)
 BuildRequires:  kf5-rpm-macros
 BuildRequires:  extra-cmake-modules
 BuildRequires:  qt5-tools
+BuildRequires:  qt5-qttools-linguist
 
 %description
 KDE Frameworks 5 Tier 1 integration module for global shortcuts.
